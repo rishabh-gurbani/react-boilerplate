@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Vite + React</h1>
-      <h4>Hey my name is Rishabh</h4>
+      <h4>Hey my name is Rishabh, update check</h4>
       update
       changing on prod
       <div className="card">
